@@ -125,8 +125,8 @@ public class Board {
 				&& board.get(0).getTurtlePart(2) != board.get(3).getTurtlePart(0);
 	}
 
-	// +---+
-	// | 1 |
+	//     +---+
+	//     | 1 |
 	// +---+---+
 	// | 3 | 4 |
 	// +---+---+
@@ -137,8 +137,8 @@ public class Board {
 				&& board.get(3).getTurtlePart(1) != board.get(4).getTurtlePart(3);
 	}
 
-	// +---+
-	// | 2 |
+	//     +---+
+	//     | 2 |
 	// +---+---+
 	// | 4 | 5 |
 	// +---+---+
@@ -159,8 +159,8 @@ public class Board {
 				&& board.get(3).getTurtlePart(2) != board.get(6).getTurtlePart(0);
 	}
 
-	// +---+
-	// | 4 |
+	//     +---+
+	//     | 4 |
 	// +---+---+
 	// | 6 | 7 |
 	// +---+---+
@@ -171,8 +171,8 @@ public class Board {
 				&& board.get(6).getTurtlePart(1) != board.get(7).getTurtlePart(3);
 	}
 
-	// +---+
-	// | 5 |
+	//     +---+
+	//     | 5 |
 	// +---+---+
 	// | 7 | 8 |
 	// +---+---+
